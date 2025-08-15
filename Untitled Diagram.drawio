@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.1.0">
   <diagram name="Page-1" id="nGw3dob7N7OY36UTIDTg">
-    <mxGraphModel dx="705" dy="458" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="869" dy="567" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,23 +46,101 @@
         <mxCell id="H1AeYL00ZjbXhmxLTQsf-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H1AeYL00ZjbXhmxLTQsf-14" target="H1AeYL00ZjbXhmxLTQsf-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H1AeYL00ZjbXhmxLTQsf-14" value="Thought" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="90" y="408" width="80" height="80" as="geometry" />
+        <mxCell id="H1AeYL00ZjbXhmxLTQsf-14" value="Question" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="19" y="406" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="H1AeYL00ZjbXhmxLTQsf-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H1AeYL00ZjbXhmxLTQsf-15" target="H1AeYL00ZjbXhmxLTQsf-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H1AeYL00ZjbXhmxLTQsf-15" value="Access related information" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="205" y="418" width="120" height="60" as="geometry" />
+          <mxGeometry x="134" y="416" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H1AeYL00ZjbXhmxLTQsf-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H1AeYL00ZjbXhmxLTQsf-17" target="H1AeYL00ZjbXhmxLTQsf-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H1AeYL00ZjbXhmxLTQsf-17" value="Find useful information" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="351" y="418" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="416" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H1AeYL00ZjbXhmxLTQsf-19" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="501" y="418" width="120" height="60" as="geometry" />
+        <mxCell id="H1AeYL00ZjbXhmxLTQsf-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H1AeYL00ZjbXhmxLTQsf-19" target="H1AeYL00ZjbXhmxLTQsf-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H1AeYL00ZjbXhmxLTQsf-19" value="Link ideas together" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="416" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H1AeYL00ZjbXhmxLTQsf-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H1AeYL00ZjbXhmxLTQsf-23" target="H1AeYL00ZjbXhmxLTQsf-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H1AeYL00ZjbXhmxLTQsf-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H1AeYL00ZjbXhmxLTQsf-23" target="H1AeYL00ZjbXhmxLTQsf-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H1AeYL00ZjbXhmxLTQsf-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H1AeYL00ZjbXhmxLTQsf-23" target="H1AeYL00ZjbXhmxLTQsf-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H1AeYL00ZjbXhmxLTQsf-23" value="Why are cars made of steel" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="21" y="641" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H1AeYL00ZjbXhmxLTQsf-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H1AeYL00ZjbXhmxLTQsf-33" target="H1AeYL00ZjbXhmxLTQsf-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H1AeYL00ZjbXhmxLTQsf-33" value="Translate into text" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="578" y="416" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H1AeYL00ZjbXhmxLTQsf-35" value="Write it down" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="729" y="406" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H1AeYL00ZjbXhmxLTQsf-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="H1AeYL00ZjbXhmxLTQsf-38" target="H1AeYL00ZjbXhmxLTQsf-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H1AeYL00ZjbXhmxLTQsf-38" value="Why is steel a good material" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="149" y="535" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H1AeYL00ZjbXhmxLTQsf-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H1AeYL00ZjbXhmxLTQsf-39" target="H1AeYL00ZjbXhmxLTQsf-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H1AeYL00ZjbXhmxLTQsf-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H1AeYL00ZjbXhmxLTQsf-39" target="H1AeYL00ZjbXhmxLTQsf-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H1AeYL00ZjbXhmxLTQsf-39" value="What makes a good car" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="149" y="744" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H1AeYL00ZjbXhmxLTQsf-41" value="How are cars made" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="149" y="641" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H1AeYL00ZjbXhmxLTQsf-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H1AeYL00ZjbXhmxLTQsf-42" target="H1AeYL00ZjbXhmxLTQsf-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H1AeYL00ZjbXhmxLTQsf-42" value="Steel is strong" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="402" y="515" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H1AeYL00ZjbXhmxLTQsf-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H1AeYL00ZjbXhmxLTQsf-43" target="H1AeYL00ZjbXhmxLTQsf-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H1AeYL00ZjbXhmxLTQsf-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H1AeYL00ZjbXhmxLTQsf-43" target="H1AeYL00ZjbXhmxLTQsf-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H1AeYL00ZjbXhmxLTQsf-43" value="What are the&amp;nbsp; properties of steel" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="505" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H1AeYL00ZjbXhmxLTQsf-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H1AeYL00ZjbXhmxLTQsf-52" target="H1AeYL00ZjbXhmxLTQsf-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H1AeYL00ZjbXhmxLTQsf-52" value="A good car is strong" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="402" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H1AeYL00ZjbXhmxLTQsf-54" value="Steel is a strong but cheap enough to make a car from it" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="595" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H1AeYL00ZjbXhmxLTQsf-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H1AeYL00ZjbXhmxLTQsf-58" target="H1AeYL00ZjbXhmxLTQsf-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H1AeYL00ZjbXhmxLTQsf-58" value="Steel is cheap" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="595" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H1AeYL00ZjbXhmxLTQsf-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H1AeYL00ZjbXhmxLTQsf-63" target="H1AeYL00ZjbXhmxLTQsf-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H1AeYL00ZjbXhmxLTQsf-63" value="A good car is cheap" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="402" y="759" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
